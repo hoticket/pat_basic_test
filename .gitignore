@@ -71,3 +71,6 @@ Thumbs.db
 *.dll
 *.exe
 
+# CLion generated files
+.idea/
+cmake-build-debug/
